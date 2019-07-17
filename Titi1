@@ -1,0 +1,6 @@
+#input a number 
+A=input("enter a number ")
+If A % 2 == 0:
+   Print("The number is even")
+Else:
+   Print("The number is odd")
